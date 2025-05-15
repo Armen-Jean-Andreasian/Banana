@@ -1,6 +1,10 @@
 # Banana | 18+
 
-**Banana** is a demonstrational project inspired by the meme:
+---
+## Prequel
+
+1. No worries, publishing this project is **absolutely legal**. It was published after consulting with a lawyer.
+2. **Banana** is a demonstrational project inspired by the meme:
 
 ![Meme](https://img.ifunny.co/images/5338b7f02b59902cc069a515a79ea08c7edcaca845608e0889812c30932969ad_1.jpg)
 
