@@ -1,4 +1,11 @@
-# Banana | 18+
+# Banana
+
+Disclaimer: 18+ 
+
+---
+## Intro
+
+Banana is a desktop todo app, which in background DDos attcks Pentagon and hosts a Mexican drug market on Darknet. 
 
 ---
 ## Prequel
