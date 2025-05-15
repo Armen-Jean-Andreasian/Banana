@@ -2,9 +2,17 @@
 Banana is a desktop todo app, which in background DDos attcks Pentagon and hosts a Mexican drug market on Darknet.
 
 ---
+- It is inspired by the meme:
+
+
+![](https://img.ifunny.co/images/5338b7f02b59902cc069a515a79ea08c7edcaca845608e0889812c30932969ad_1.jpg)
+
+
+---
 ## Disclaimer and Terms of Use
 
 This project is provided "as is" for entertainment and educational purposes only.
+
 
 - The author expressly disclaims any responsibility or liability for any direct or indirect damages arising from the use or misuse of this project.
 - This project is not intended to support, promote, or encourage any illegal activities.
