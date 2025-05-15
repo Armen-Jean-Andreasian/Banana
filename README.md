@@ -1,4 +1,4 @@
-# Banana
+# Banana | 18+
 
 **Banana** is a demonstrational project inspired by the meme:
 
